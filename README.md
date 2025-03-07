@@ -10,11 +10,11 @@
 </p>
  
  <a href="https://whatsapp.com/channel/0029Vaybu7ZHAdNNsUJ9uR1J">
- <img alt="UNLIMITED " height="300" src="https://f".
+ <img alt="UNLIMITED*height="300" src="https://f".
 
 </h1> 
 <p align="center">💪<b>𝕃
-𝗨𝗡𝗟𝗜𝗠𝗜𝗧𝗘𝗗 𝗠𝗗</b>, 💪 </p>
+𝗨𝗡𝗟𝗜𝗠𝗜𝗧𝗘𝗗-𝗠𝗗</b>, 💪 </p>
 
 </p>
   <p align="center">
@@ -22,7 +22,7 @@
 
 
       
-   HOW TO DEPLOY MY BOT 🔓
+  HOW TO DEPLOY MY BOT 🔓
    
 1.STAR AND FORK THIS REPOSITORY 🫴
 [![Star and Fork This Repo](https://img.shields.io/static/v1?label=Star%20%26%20Fork%20This%20Repo&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/unlimitedtechnology1/unlimitedtech/fork)  
