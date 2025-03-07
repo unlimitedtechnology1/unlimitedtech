@@ -14,12 +14,12 @@
 
 <br>
 
-2. GET SESSION ID TO LINK YOUR ACCOUNT 
+2.GET SESSION ID TO LINK YOUR ACCOUNT 
 
 [![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://yesser.onrender.com) 
 
  
- 2. GET SESSION ID FOR RENDER DEPLOYMENT 
+3.GET SESSION ID FOR RENDER DEPLOYMENT 
  
  
 [![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://yesser-scanner-8309ae116f64.herokuapp.com/) 
@@ -31,36 +31,41 @@
  
 <br>
       
-3.IF YOU DON'T HAVE HEROKU ACCOUNT CREATE ONE 
+4.IF YOU DON'T HAVE HEROKU ACCOUNT CREATE ONE 
 
 [![Create Account on Heroku](https://img.shields.io/static/v1?label=Create%20Account&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)  
 
 <br>
 
-4.IF YOU HAVE HEROKU ACCOUNT DEPLOY YOUR BOT NOW
+5.IF YOU HAVE HEROKU ACCOUNT DEPLOY YOUR BOT NOW
 
 [![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku) 
 
 
 
-5.FOLLOW MY CHANNEL FOR MORE INFORMATION 
+6.FOLLOW MY CHANNEL FOR MORE INFORMATION 
 
 [![Follow My WhatsApp Channel](https://img.shields.io/static/v1?label=Follow%20My%20WhatsApp%20Channel&message=follow&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vaybu7ZHAdNNsUJ9uR1J)  
 
 <br>
 
-6.COMMUNICATE WITH DEVELOPER OF THIS BOT HERE 
+7.COMMUNICATE WITH DEVELOPER OF THIS BOT HERE 
 
 [![Contact Me on WhatsApp](https://img.shields.io/static/v1?label=Contact%20Me%20on%20WhatsApp&message=Message&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/fr06wv)
 
 <br>
 
-7.SUBSCRIBE MY YOUTUBE CHANNEL 🔐
+8.SUBSCRIBE MY YOUTUBE CHANNEL 🔐
 
 [![Subscribe to My Channel on YouTube](https://img.shields.io/static/v1?label=Subscribe%20to%20My%20Channel&message=YouTube&color=FF0000&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@unlimitedtech2025?si=OljZudXYBk6Lz4CY)
 
 <br>
 
-8.JOIN OUR WHAT'S APP GROUP 
+9.JOIN OUR WHAT'S APP GROUP 
 
-[![Follow My whatsapp](https://img.shields.io/static/v1?label=Follow%20My%20whasapp&message=GitHub&color=181717&style=for-the-badge&logo=whrsapp&logoColor=white)](https://chat.whatsapp.com/Ig1yue5y7y1Lwfkatd6ZbB)
+[![Follow My whatsapp](https://img.shields.io/static/v1?label=Follow%20My%20whasapp&message=WhatsApp&color=181717&style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Ig1yue5y7y1Lwfkatd6ZbB)
+
+10.DEVELOPER CONTRIBUTER
+
+[![Contact Me on WhatsApp](https://img.shields.io/static/v1?label=Contact%20Me%20on%20WhatsApp&message=Message&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=green)](https://wa.me/255757337987)  
+
