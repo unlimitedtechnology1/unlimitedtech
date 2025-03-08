@@ -5,6 +5,17 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR+SUPPORT-DONT; FORGET+TO+FORK+𝗳𝗼𝗿𝗸 𝗺𝘆 𝗿𝗲𝗽𝗼;CREATED+BY+UNLIMiTED TECH;RELEASED+2025" alt="Typing SVG" /></a>
 
+</p>
+ 
+ <a href="https://whatsapp.com/channel/0029Vaybu7ZHAdNNsUJ9uR1J">
+ <img alt="STANY-TECH" height="300" src="https://files.catbox.moe/rctd3z.jpg".
+
+</h1> 
+<p align="center">😎<b>𝕃
+UNLIMITED MD</b>, 😎</p>
+
+</p>
+  <p align="center">
 
       
   HOW TO DEPLOY MY BOT 🔓
