@@ -8,13 +8,13 @@
 </p>
  
  <a href="https://whatsapp.com/channel/0029Vaybu7ZHAdNNsUJ9uR1J">
- <img alt="STANY-TECH" height="590" src="https://files.catbox.moe/rctd3z.jpg".
+ <img alt="STANY-TECH" height="590" src="https://files.catbox.moe/rctd3z.jpg"./></a>
 
 
 
 
-      
-  *HOW TO DEPLOY MY BOT 🔓
+  
+ PRINCIPAL OF HOW TO DEPLOY MY BOT 🔓
    
 
 
