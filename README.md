@@ -8,11 +8,13 @@
 </p>
  
  <a href="https://whatsapp.com/channel/0029Vaybu7ZHAdNNsUJ9uR1J">
- <img alt="STANY-TECH" height="900" src="https://files.catbox.moe/rctd3z.jpg".
+ <img alt="STANY-TECH" height="800" src="https://files.catbox.moe/rctd3z.jpg".
+
+  </p>
 
 
       
-  HOW TO DEPLOY MY BOT 🔓
+  *HOW TO DEPLOY MY BOT 🔓
    
 1.STAR AND FORK THIS REPOSITORY 🫴
 [![Star and Fork This Repo](https://img.shields.io/static/v1?label=Star%20%26%20Fork%20This%20Repo&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/unlimitedtechnology1/unlimitedtech/fork)  
