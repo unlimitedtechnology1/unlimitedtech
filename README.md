@@ -8,14 +8,8 @@
 </p>
  
  <a href="https://whatsapp.com/channel/0029Vaybu7ZHAdNNsUJ9uR1J">
- <img alt="STANY-TECH" height="300" src="https://files.catbox.moe/rctd3z.jpg".
+ <img alt="STANY-TECH" height="900" src="https://files.catbox.moe/rctd3z.jpg".
 
-</h1> 
-<p align="center">😎<b>𝕃
-UNLIMITED MD</b>, 😎</p>
-
-</p>
-  <p align="center">
 
       
   HOW TO DEPLOY MY BOT 🔓
