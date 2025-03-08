@@ -38,7 +38,7 @@ const date = moment().format('DD/MM/YYYY');
      * UNLIMITED 𝗧𝗘𝗖𝗛 𝗫𝗠𝗗 IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> unlimited-tech-cyber/UNLIMITED-TECH-MD
+> https://github.com/unlimitedtechnology1/unlimitedtech
 
 *WHATSAPP CHANNEL*
 > https://whatsapp.com/channel/0029Vaybu7ZHAdNNsUJ9uR1J
@@ -46,7 +46,7 @@ const date = moment().format('DD/MM/YYYY');
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │❒⁠⁠⁠⁠ *DEV1* : *© UNLIMITED-TECH™*
-│❒⁠⁠⁠⁠ *DEV2* : *© UNLIMITEDTECH™*
+│❒⁠⁠⁠⁠ *DEV2* : *© STANY-TECH™*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
